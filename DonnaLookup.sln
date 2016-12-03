@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonnaLookup", "DonnaLookup\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelNameSwap", "ExcelNameSwap\ExcelNameSwap.csproj", "{14F256CD-F5B0-4DDC-BB01-C63170AAFC5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelEmailSwap", "ExcelEmailSwap\ExcelEmailSwap.csproj", "{39173E62-6282-464D-8319-2C4771F52345}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{14F256CD-F5B0-4DDC-BB01-C63170AAFC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14F256CD-F5B0-4DDC-BB01-C63170AAFC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14F256CD-F5B0-4DDC-BB01-C63170AAFC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39173E62-6282-464D-8319-2C4771F52345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39173E62-6282-464D-8319-2C4771F52345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39173E62-6282-464D-8319-2C4771F52345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39173E62-6282-464D-8319-2C4771F52345}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
